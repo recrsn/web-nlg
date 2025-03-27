@@ -1,10 +1,13 @@
-# WebNLG
+# Web NLG
 
-Work in progress
+ Experimenting with Natural Language Generation of SQL query results,
+ tagged with [RDF](https://www.w3.org/RDF/)
 
 ## Authors
-- Amitosh Swain Mahapatra
-- Asutosh Panda
+> This was our graduation project
+
+- Amitosh Swain Mahapatra (@recrsn)
+- Asutosh Panda (@Asutosh989)
 - Manaswini Das
 - Pratik Sanganeria
 
